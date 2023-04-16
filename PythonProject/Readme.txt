@@ -1,0 +1,5 @@
+- This is a game in which the user uses the arrow keys to blast aliens that correspond to the arrow key.
+- Python 3.11
+- Windows 10
+- Didn't need commands to run
+- arrow keys to blast
